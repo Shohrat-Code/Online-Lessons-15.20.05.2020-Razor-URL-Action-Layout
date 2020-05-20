@@ -11,4 +11,11 @@
   
   
   
-### 2. 
+### 2. Aşağıdakı linkdə göstərilmiş saytı yükləyin və dərsdə etdiyimiz formada mvc app-də tətbiq edin:
+ https://www.free-css.com/free-css-templates/page254/minimalista
+
+
+
+
+### Əlavə link:
+https://www.httrack.com/page/2/
